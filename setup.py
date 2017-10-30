@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 setup module for ihiji_schemas
 """
